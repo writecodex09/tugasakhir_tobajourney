@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662368071760",
+    "firebase_url": "https://tobajourney-ec33d.firebaseio.com",
+    "project_id": "tobajourney-ec33d",
+    "storage_bucket": "tobajourney-ec33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662368071760:android:e43148b6ead357772c2155",
+        "android_client_info": {
+          "package_name": "com.example.mobiletobajourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662368071760-nudmi99r739qmcou0bo7r42sev71c5pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqBKfICrcdQaAjvvWHEpzZvunouoMzCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662368071760-nudmi99r739qmcou0bo7r42sev71c5pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
